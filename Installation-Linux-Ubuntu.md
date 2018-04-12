@@ -9,7 +9,7 @@ There are some phase installation that required before join DSW AI Camp by Nodef
 
 ## Download Installer
 ```sh
-wget https://repo.continuum.io/archive/Anaconda3-5.1.0-Linux-x86_64.sh
+# wget https://repo.continuum.io/archive/Anaconda3-5.1.0-Linux-x86_64.sh
 ```
 
 ## Run the installer
