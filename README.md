@@ -17,7 +17,7 @@ If you new in programming you can look several courses before come.
 There are some software you must installed before come to the camp.
 ## 1. Installation Tutorial
 
-* [Windows]()
+* [Windows](/Installation/Installation-Windows.md)
 * [Linux Ubuntu](/Installation/Installation-Linux-Ubuntu.md)
 * [Mac OS](/Installation/Installation-MacOS.md)
 

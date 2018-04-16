@@ -55,7 +55,7 @@ After finished the installation you can activate it and check Anaconda correctly
 Then install some depedencies for this camp.
 ```sh
 # conda install -c conda-forge opencv
-# conda install tensorflow=1.3.0
+# conda install tensorflow=1.4.1
 ```
 
 ## Testing Jupyter Notebook
