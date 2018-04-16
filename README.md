@@ -1,7 +1,8 @@
 # DSW-Camp-AI
 
-This repository for DSW Camp AI by Nodeflux. In this repo there are some prerequites you must do. 
+This repository for DSW Camp AI by Nodeflux. In this repo there are some prerequites you must to do. 
 # Prerequisite Course
+If you new in programming you can look several courses before come. 
 ## 1. Python Course for Data Science
 * https://www.datacamp.com/courses/intro-to-python-for-data-science
 
@@ -13,6 +14,7 @@ This repository for DSW Camp AI by Nodeflux. In this repo there are some prerequ
 
 
 # Prerequisite Software
+There are some software you must installed before come to the camp.
 ## 1. Installation Tutorial
 
 * [Windows]()
