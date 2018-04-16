@@ -19,7 +19,7 @@ There are some phase installation that required before join DSW AI Camp by Nodef
 
 ### Noted
 
-![Error path](../images/AnacondaError.PNG)
+![Error path](../Images/AnacondaError.PNG)
 
 If you got this error, It might be happened because of `Destination Folder`. The `Destination Folder` should not have any spaces, e.g.: `C:\Users\Rizqi Okta E\Anaconda3`, it contains 2 spaces on `Rizqi(space)Okta(space)E`. To tackle this problem , you can change the `Destination Folder` to anywhere  which is without using any spaces, e.g.: `D:\Programming_Stuff\Anaconda3`
 
