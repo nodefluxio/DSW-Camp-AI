@@ -25,8 +25,8 @@ There are some software you must installed before come to the camp.
 
 | Level | Link Download|
 |----------|-----------------|
-Basic | [MNIST JPG](https://www.kaggle.com/scolianni/mnistasjpg/data) |
-Intermediate & Advance | [Train](https://drive.google.com/file/d/0B6eKvaijfFUDQUUwd21EckhUbWs), [Val](https://drive.google.com/file/d/0B6eKvaijfFUDd3dIRmpvSk8tLUk), [Test](https://drive.google.com/file/d/0B6eKvaijfFUDbW4tdGpaYjgzZkU)
+Basic & Intermediate | [MNIST JPG](https://www.kaggle.com/scolianni/mnistasjpg/data) |
+Advance | [Train](https://drive.google.com/file/d/0B6eKvaijfFUDQUUwd21EckhUbWs), [Val](https://drive.google.com/file/d/0B6eKvaijfFUDd3dIRmpvSk8tLUk), [Test](https://drive.google.com/file/d/0B6eKvaijfFUDbW4tdGpaYjgzZkU)
 
 ## 3. Download Labeling Tool
 
