@@ -31,14 +31,14 @@ If you got this error, It might be happened because of `Destination Folder`. The
 ## Testing Jupyter Notebook
 After all you can checking the installation with running Jupyter Python Notebook.
 1. Open `Anaconda Prompt`
-2. Type `conda activate dsw-nodeflux`, then press `enter` to activate our environment
-3. Type `cd <path_to_DSW-Camp-AI>` e.g.: `cd C:\Users\Rizqi Okta E\Documents\DSW-Camp-AI`, then press `enter` 
-4. Type `jupyter notebook`, then press `enter` 
-5. Then you will be directed to your default browser as shown below:
+2. Type `cd <path_to_DSW-Camp-AI>` e.g.: `cd C:\Users\Rizqi Okta E\Documents\DSW-Camp-AI`, then press `enter` 
+3. Type `jupyter notebook`, then press `enter` 
+4. Then you will be directed to your default browser as shown below:
 
 ![Jupyter Notebook](../Images/jupyter_notebook.png)
 
 *If you fail redirect to your browser, you can copy/paste the url on your `Anaconda Prompt` to your browser
+
 ## Finally
 If you have some trouble about the installation, feel free to email me at rizqi.okta@nodeflux.io.
 
