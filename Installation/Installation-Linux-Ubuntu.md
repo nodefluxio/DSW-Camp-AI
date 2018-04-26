@@ -56,7 +56,7 @@ We will now install the dependencies for the course into the new environment:
 ```
 conda install numpy scipy matplotlib jupyter git
 conda install -c conda-forge opencv
-conda install tensorflow=1.4.1
+conda install tensorflow=1.4.0
 ```
 
 Once the installation is finished, to recover some disk space we can clear the package tarballs Conda just downloaded:
