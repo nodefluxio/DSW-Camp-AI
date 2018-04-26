@@ -23,29 +23,13 @@ There are some phase installation that required before join DSW AI Camp by Nodef
 
 If you got this error, It might be happened because of `Destination Folder`. The `Destination Folder` should not have any spaces, e.g.: `C:\Users\Rizqi Okta E\Anaconda3`, it contains 2 spaces on `Rizqi(space)Okta(space)E`. To tackle this problem , you can change the `Destination Folder` to anywhere  which is without using any spaces, e.g.: `D:\Programming_Stuff\Anaconda3`
 
-## Create a Conda virtual environment
-Assuming Conda is working, we will now create our Conda environment:
-```
-conda create -n dsw-nodeflux python=3.6
-```
-
-This bootstraps a new Conda environment named `dsw-nodeflux` with a minimal Python 3.6 install. You will be presented with a 'package plan' listing the packages to be installed and asked whether to proceed: type `y` then enter.
-
-We will now *activate* our created environment:
-
-```
-source activate dsw-nodeflux
-```
-
-If you wish to deactivate an environment loaded in the current terminal e.g. to launch the system Python interpreter, you can run `source deactivate` 
-
 ## Create conda environtment and dependencies installation
 1. Open `Anaconda Prompt` by click `Windows button` then type `Anaconda Prompt` and then click it.
 2. We will now create our Conda environment. Type `conda create -n dsw-nodeflux python=3.6`
 3. This bootstraps a new Conda environment named `dsw-nodeflux` with a minimal Python 3.6 install. You will be presented with a 'package plan' listing the      packages to be installed and asked whether to proceed: type `y` then enter.
 4. We will now *activate* our created environment: type `conda activate dsw-nodeflux` then press `enter` 
 5. Type ```conda install -c conda-forge opencv``` then press `enter` to install Opencv
-6. Type ` conda install -c conda-forge tensorflow==1.4.1` then press `enter` to install tensorflow
+6. Type ` conda install -c conda-forge tensorflow==1.4.0` then press `enter` to install tensorflow
 7. If you wish to deactivate an environment, you can type `conda deactivate` then press `enter` 
 ## Testing Jupyter Notebook
 After all you can checking the installation with running Jupyter Python Notebook.
