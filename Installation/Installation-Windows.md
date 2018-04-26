@@ -26,8 +26,7 @@ If you got this error, It might be happened because of `Destination Folder`. The
 ## Dependencies installation
 1. Open `Anaconda Prompt` by click `Windows button` then type `Anaconda Prompt` and then click it.
 2. Type ```conda install -c conda-forge opencv``` then press `enter` to install Opencv
-3. Type ` conda install -c conda-forge tensorflow==1.4.0` then press `enter` to install tensorflow
-4. If you wish to deactivate an environment, you can type `conda deactivate` then press `enter` 
+3. Type ` conda install -c conda-forge tensorflow==1.4.0` then press `enter` to instal
 
 ## Testing Jupyter Notebook
 After all you can checking the installation with running Jupyter Python Notebook.
