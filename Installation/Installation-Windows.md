@@ -45,7 +45,7 @@ If you wish to deactivate an environment loaded in the current terminal e.g. to 
 3. This bootstraps a new Conda environment named `dsw-nodeflux` with a minimal Python 3.6 install. You will be presented with a 'package plan' listing the      packages to be installed and asked whether to proceed: type `y` then enter.
 4. We will now *activate* our created environment: type `conda activate dsw-nodeflux` then press `enter` 
 5. Type ```conda install -c conda-forge opencv``` then press `enter` to install Opencv
-6. Type `conda install tensorflow=1.4.1` then press `enter` to install tensorflow
+6. Type ` conda install -c conda-forge tensorflow==1.4.1` then press `enter` to install tensorflow
 7. If you wish to deactivate an environment, you can type `conda deactivate` then press `enter` 
 ## Testing Jupyter Notebook
 After all you can checking the installation with running Jupyter Python Notebook.
